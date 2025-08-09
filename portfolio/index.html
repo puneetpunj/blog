@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Portfolio</title>
   <meta name="description" content="Personal portfolio" />
-  <link rel="icon" href="/portfolio/assets/favicon.ico" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -29,7 +28,7 @@
       }
     }
   </script>
-  <link href="/portfolio/styles/global.css" rel="stylesheet" />
+  <link href="./styles/global.css" rel="stylesheet" />
 </head>
 <body class="bg-neutral-950 text-neutral-100 antialiased">
   <header class="sticky top-0 z-50 backdrop-blur border-b border-white/10 bg-neutral-950/60">
@@ -40,7 +39,7 @@
         <a href="#writing" class="hover:text-white">Writing</a>
         <a href="#about" class="hover:text-white">About</a>
         <a href="#contact" class="hover:text-white">Contact</a>
-        <a id="resumeLink" href="/portfolio/public/resume.pdf" class="inline-flex items-center gap-2 rounded-md px-3 py-1.5 bg-white text-neutral-900 font-medium hover:bg-neutral-200">Resume</a>
+        <a id="resumeLink" href="./public/resume.pdf" class="inline-flex items-center gap-2 rounded-md px-3 py-1.5 bg-white text-neutral-900 font-medium hover:bg-neutral-200">Resume</a>
       </nav>
     </div>
   </header>
@@ -54,7 +53,7 @@
         <div class="mt-6 flex items-center gap-3" id="socialLinks"></div>
       </div>
       <div class="md:col-span-2 flex md:justify-end">
-        <img id="avatar" class="h-40 w-40 md:h-56 md:w-56 rounded-2xl object-cover ring-1 ring-white/10" src="/portfolio/assets/avatar.jpg" alt="Avatar" />
+        <img id="avatar" class="h-40 w-40 md:h-56 md:w-56 rounded-2xl object-cover ring-1 ring-white/10" src="./assets/avatar.jpg" alt="Avatar" />
       </div>
     </section>
 
@@ -89,6 +88,6 @@
     </div>
   </footer>
 
-  <script type="module" src="/portfolio/scripts/main.mjs"></script>
+  <script type="module" src="./scripts/main.mjs"></script>
 </body>
 </html>
