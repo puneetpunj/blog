@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "title": "How AI Can Help You Create Actionable Items for Your Call Recordings",
+    "link": "https://medium.com/swlh/how-ai-can-help-you-create-actionable-items-for-your-call-recordings-b3ed8041ba4f?source=rss-998376a3c59a------2",
+    "description": "\n\nRecently, I had the chance to delve into Amazon Connect, AWS’s call centre solution, and its powerful AI capabilities through Contact Lens…\nContinue reading on The Startup »\n",
+    "pubDate": "2024-08-08 03:57:22",
+    "thumbnail": ""
+  },
+  {
+    "title": "My Journey to achieving every AWS Certification",
+    "link": "https://towardsaws.com/my-journey-to-achieving-every-aws-certification-66a2bb5de253?source=rss-998376a3c59a------2",
+    "description": "\nBeing in an organisation full of competitive and highly skilled people motivates you to do things you might have thought were beyond your limit.\nAchieving every AWS certification was certainly one of those things I never thought I could achieve, let alone write about one day. This blog is as much a",
+    "pubDate": "2024-06-24 00:49:59",
+    "thumbnail": ""
+  },
+  {
+    "title": "Serverless Solution for RDS Granular Database Backup — Part 1",
+    "link": "https://towardsaws.com/serverless-solution-for-rds-granular-database-backup-part-1-fb480e2e4990?source=rss-998376a3c59a------2",
+    "description": "\n\nHave you ever found yourself needing to take granular backups of RDS databases? This becomes particularly crucial when using a…\nContinue reading on Towards AWS »\n",
+    "pubDate": "2024-05-19 06:22:27",
+    "thumbnail": ""
+  },
+  {
+    "title": "AWS DataSync: Your Key to Seamless NFS to EFS Data Migration (Across Accounts)",
+    "link": "https://towardsaws.com/aws-datasync-your-key-to-seamless-nfs-to-efs-data-migration-across-accounts-48dab5ecb1b9?source=rss-998376a3c59a------2",
+    "description": "\n\nIn my recent project, I ran into the challenge of migrating 1TB of data from an NFS file system hosted on an EC2 server in one AWS account…\nContinue reading on Towards AWS »\n",
+    "pubDate": "2024-04-20 13:07:18",
+    "thumbnail": ""
+  },
+  {
+    "title": "Overcome CloudFormation Limitation — Manage SecureString SSM Parameters",
+    "link": "https://aws.plainenglish.io/overcome-cloudformation-limitation-manage-securestring-ssm-parameters-4acb43ce881b?source=rss-998376a3c59a------2",
+    "description": "\n\nMake use of Custom Resource to acheive this functionality\nContinue reading on AWS in Plain English »\n",
+    "pubDate": "2024-01-28 05:39:50",
+    "thumbnail": ""
+  },
+  {
+    "title": "Troubleshooting Common Challenges in Ansible — Part 4",
+    "link": "https://towardsaws.com/troubleshooting-common-challenges-in-ansible-part-4-6946bc53cb8e?source=rss-998376a3c59a------2",
+    "description": "\n\nIn the previous blogs, Mastering Ansible for Server Management — Part 2 and Server Management using RedHat Ansible Automation Platform —…\nContinue reading on Towards AWS »\n",
+    "pubDate": "2024-01-10 00:58:13",
+    "thumbnail": ""
+  },
+  {
+    "title": "Server Management using RedHat Ansible Automation Platform — Part 3",
+    "link": "https://towardsaws.com/server-management-using-redhat-ansible-automation-platform-part-3-e6e18f235a2c?source=rss-998376a3c59a------2",
+    "description": "\n\nIn the previous blog, Mastering Ansible for Server Management — Part 2, we discussed Ansible, discovering its fundamental concepts and…\nContinue reading on Towards AWS »\n",
+    "pubDate": "2023-12-20 04:53:55",
+    "thumbnail": ""
+  },
+  {
+    "title": "Mastering Ansible for Server Management — Part 2",
+    "link": "https://towardsaws.com/mastering-ansible-for-server-management-part-2-5157031d3ff9?source=rss-998376a3c59a------2",
+    "description": "\n\nIn the previous blog, Understanding Server Configuration Management — Part 1, we explored the fundamental concepts of Server Configuration…\nContinue reading on Towards AWS »\n",
+    "pubDate": "2023-12-14 22:27:39",
+    "thumbnail": ""
+  },
+  {
+    "title": "Understanding Server Configuration Management",
+    "link": "https://towardsaws.com/understanding-server-configuration-management-35d05b79d53b?source=rss-998376a3c59a------2",
+    "description": "\nIn the ever-evolving landscape of technology, businesses today rely heavily on cloud infrastructure to run their operations efficiently…\nContinue reading on Towards AWS »\n",
+    "pubDate": "2023-09-13 01:01:08",
+    "thumbnail": ""
+  },
+  {
+    "title": "Unveiling Hidden Savings: Efficient S3 Multipart Uploads",
+    "link": "https://towardsaws.com/unveiling-hidden-savings-efficient-s3-multipart-uploads-6c0a27e5fff9?source=rss-998376a3c59a------2",
+    "description": "\nAmazon Simple Storage Service (S3) is a cornerstone of cloud storage solutions, offering scalability, durability, and unmatched reliability. While S3 is renowned for its straightforward usage, hidden costs can quickly accumulate if you’re not vigilant. One area where these costs can hide is S3 mult",
+    "pubDate": "2023-08-18 01:27:46",
+    "thumbnail": ""
+  }
+]
