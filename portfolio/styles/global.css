@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Inter;
+  src: local("Inter"), url("https://fonts.cdnfonts.com/s/19795/Inter-Regular.woff") format("woff");
+  font-display: swap;
+}
+
+html { scroll-behavior: smooth; }
+
+::selection { background-color: rgba(70, 110, 255, 0.35); }
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
