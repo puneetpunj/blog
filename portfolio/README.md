@@ -4,8 +4,8 @@ A fast static personal portfolio site with Tailwind CSS and data-driven sections
 
 ## Setup
 
-1. Edit `config.json` with your name, title, Medium username, and social links.
-2. Add your resume PDF to `public/resume.pdf` (optional).
+1. The included `config.json` is generated from the resume `Puneet_Punj_Resume.pdf`.
+2. Add your resume PDF to `public/resume.pdf` (optional) to override the default.
 3. Run the Medium fetch script:
 
 ```bash
@@ -36,7 +36,7 @@ You can use any static server. For convenience:
 npx --yes http-server -c-1 .
 ```
 
-Then open the printed URL and navigate to `/portfolio`.
+Run the command from the repo root (the folder containing `portfolio`) and navigate to `/portfolio` in the browser. Running the server from a parent directory will cause 404 errors for assets.
 
 ## Deploy
 

@@ -1,30 +1,36 @@
 {
   "name": "Puneet Punj",
-  "title": "Software Engineer",
-  "location": "City, Country",
-  "bio": "Short bio about your work, interests, and impact.",
+  "title": "AWS & DevOps Senior Consultant",
+  "location": "Melbourne, Australia",
+  "bio": "Puneet is a seasoned AWS DevOps Senior Consultant with over 14 years of experience. He drives cost-effective, scalable cloud solutions and leads complex migrations using AWS, Kubernetes and Terraform.",
   "avatar": "/assets/avatar.jpg",
-  "email": "you@example.com",
+  "email": "puneetpunj88@gmail.com",
   "social": {
-    "github": "https://github.com/yourhandle",
+    "github": "https://github.com/puneetpunj",
     "linkedin": "https://www.linkedin.com/in/puneet-punj-01365961/",
-    "twitter": "https://twitter.com/yourhandle",
     "medium": "https://medium.com/@punjpuneet"
   },
   "projects": [
     {
-      "name": "Project One",
-      "description": "One-line description of what this project does and the impact.",
-      "tech": ["TypeScript", "Next.js", "Tailwind"],
-      "url": "https://example.com",
-      "repo": "https://github.com/yourhandle/project-one"
+      "name": "Cevo Australia - Cloud Transformation",
+      "description": "Led AWS and DevOps initiatives delivering scalable, secure cloud solutions and implementing IaC with Terraform and CloudFormation.",
+      "tech": ["AWS", "Terraform", "CloudFormation", "Jenkins", "Buildkite"],
+      "url": "",
+      "repo": ""
     },
     {
-      "name": "Project Two",
-      "description": "Another notable project.",
-      "tech": ["Python", "FastAPI"],
-      "url": "https://example.com",
-      "repo": "https://github.com/yourhandle/project-two"
+      "name": "Hydro Tasmania Migration",
+      "description": "Designed microservices and automation to migrate workloads, including SFTP integrations and serverless components.",
+      "tech": ["AWS", "Lambda", "API Gateway", "S3", "Transfer Family"],
+      "url": "",
+      "repo": ""
+    },
+    {
+      "name": "Jetstar Personalisation Testing Framework",
+      "description": "Built serverless testing framework for AWS microservices and Salesforce, improving automation coverage.",
+      "tech": ["AWS", "Lambda", "S3", "DynamoDB", "Glue"],
+      "url": "",
+      "repo": ""
     }
   ]
 }

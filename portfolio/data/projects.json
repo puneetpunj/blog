@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "Cevo Australia - Cloud Transformation",
+    "description": "Led AWS and DevOps initiatives delivering scalable, secure cloud solutions and implementing IaC with Terraform and CloudFormation.",
+    "tech": ["AWS", "Terraform", "CloudFormation", "Jenkins", "Buildkite"],
+    "url": "",
+    "repo": ""
+  },
+  {
+    "name": "Hydro Tasmania Migration",
+    "description": "Designed microservices and automation to migrate workloads, including SFTP integrations and serverless components.",
+    "tech": ["AWS", "Lambda", "API Gateway", "S3", "Transfer Family"],
+    "url": "",
+    "repo": ""
+  },
+  {
+    "name": "Jetstar Personalisation Testing Framework",
+    "description": "Built serverless testing framework for AWS microservices and Salesforce, improving automation coverage.",
+    "tech": ["AWS", "Lambda", "S3", "DynamoDB", "Glue"],
+    "url": "",
+    "repo": ""
+  }
+]
