@@ -1,0 +1,30 @@
+{
+  "name": "Your Name",
+  "title": "Software Engineer",
+  "location": "City, Country",
+  "bio": "Short bio about your work, interests, and impact.",
+  "avatar": "/assets/avatar.jpg",
+  "email": "you@example.com",
+  "social": {
+    "github": "https://github.com/yourhandle",
+    "linkedin": "https://www.linkedin.com/in/yourhandle/",
+    "twitter": "https://twitter.com/yourhandle",
+    "medium": "your-medium-username"
+  },
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "One-line description of what this project does and the impact.",
+      "tech": ["TypeScript", "Next.js", "Tailwind"],
+      "url": "https://example.com",
+      "repo": "https://github.com/yourhandle/project-one"
+    },
+    {
+      "name": "Project Two",
+      "description": "Another notable project.",
+      "tech": ["Python", "FastAPI"],
+      "url": "https://example.com",
+      "repo": "https://github.com/yourhandle/project-two"
+    }
+  ]
+}
